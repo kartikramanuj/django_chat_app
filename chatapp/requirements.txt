@@ -1,0 +1,6 @@
+uvicorn[standard]
+Django>=4.0
+djangorestframework
+channels
+channels_redis
+djangorestframework-simplejwt
